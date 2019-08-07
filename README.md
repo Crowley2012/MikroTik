@@ -5,10 +5,10 @@ https://wiki.mikrotik.com/wiki/Manual:Securing_Your_Router
 
 ## DNS
 IP > DNS
-    Servers: 1.1.1.1
+- Servers: 1.1.1.1
 IP > DNS > Static
-    Name: DNS Server
-    Address: 1.1.1.1
+- Name: DNS Server
+- Address: 1.1.1.1
 
 ## Services
 IP > Services
